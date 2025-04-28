@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>A.M. Traders - The Complete Safety Solutions</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+
+    header {
+      background-color: #003366;
+      color: #ffffff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    header img {
+      max-height: 80px;
+      vertical-align: middle;
+    }
+
+    header h1 {
+      display: inline;
+      font-size: 1.8em;
+      margin: 0 0 0 15px;
+      vertical-align: middle;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 30px auto;
+      padding: 0 20px;
+    }
+
+    .card-section {
+      background-color: #fff;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      margin-bottom: 30px;
+      text-align: center;
+    }
+
+    .card-section h2 {
+      margin-bottom: 20px;
+      color: #003366;
+    }
+
+    .card-section img {
+      max-width: 100%;
+      height: auto;
+      border: 1px solid #ddd;
+      padding: 5px;
+      background-color: #fff;
+    }
+
+    .downloads {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    .downloads h2 {
+      color: #003366;
+      margin-bottom: 20px;
+    }
+
+    .downloads a {
+      text-decoration: none;
+      background-color: #003366;
+      color: #fff;
+      padding: 12px 25px;
+      margin: 10px;
+      border-radius: 5px;
+      transition: background-color 0.3s ease;
+    }
+
+    .downloads a:hover {
+      background-color: #00509e;
+    }
+
+    footer {
+      background-color: #003366;
+      color: #fff;
+      padding: 15px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header with Logo -->
+  <header>
+    <img src="WhatsApp_Image_2025-03-16_at_21.05.04.jpeg" alt="A.M. Traders Logo">
+    <h1>A.M. Traders - The Complete Safety Solutions</h1>
+  </header>
+
+  <div class="container">
+    <!-- Visiting Card Section -->
+    <section class="card-section">
+      <h2>Our Visiting Card</h2>
+      <img src="WhatsApp_Image_2025-04-14_at_14.16.09.jpeg" alt="Visiting Card">
+      <p>Contact us for premium safety solutions and expert guidance.</p>
+    </section>
+
+    <!-- Downloads Section -->
+    <section class="downloads">
+      <h2>Downloads</h2>
+      <!-- Download link for visiting card image -->
+      <a href="WhatsApp_Image_2025-04-14_at_14.16.09.jpeg" download="A.M._Traders_VisitingCard.jpeg">Download Visiting Card</a>
+      <!-- Download link for PDF brochure -->
+      <a href="A.M.%20Traders.pdf" download="A.M._Traders_Brochure.pdf">Download Brochure (PDF)</a>
+    </section>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 A.M. Traders. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
